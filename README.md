@@ -12,7 +12,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/5e8a90985c7249c1ab12f45d7fa443e5.png?r=fso"
+      src="https://raw.githubusercontent.com/SayeedAfridi/SayeedAfridi/devcard/devcard.svg"
       alt="Sayeed Afridi's Dev Card"
     />
   </a>

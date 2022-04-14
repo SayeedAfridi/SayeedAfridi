@@ -1,0 +1,20 @@
+name: daily-devcard
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.6
+        with:
+          devcard_id: 5e8a90985c7249c1ab12f45d7fa443e5
+          commit_branch: devcard
+          commit_message: "chore: update ${filename}"
