@@ -24,3 +24,8 @@
 
 - Software Engineer Consultant at [Syfe](https://syfe.com)
 - Loves to code and a freshly brewed cup of coffee.
+
+![Metrics](https://raw.githubusercontent.com/SayeedAfridi/SayeedAfridi/github-metrics/github-metrics.svg)
+![Most used languages](https://raw.githubusercontent.com/SayeedAfridi/SayeedAfridi/github-metrics/language.svg)
+![Notable contributions](https://raw.githubusercontent.com/SayeedAfridi/SayeedAfridi/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/SayeedAfridi/SayeedAfridi/github-metrics/achievements.svg)
