@@ -22,7 +22,7 @@
 
 ## I am Sayeed Afridi
 
-- Software Engineer Consultant at [Syfe](https://syfe.com)
+- SDE-1 at [Syfe](https://syfe.com)
 - Loves to code and a freshly brewed cup of coffee.
 
 ![Metrics](https://raw.githubusercontent.com/SayeedAfridi/SayeedAfridi/github-metrics/github-metrics.svg)
