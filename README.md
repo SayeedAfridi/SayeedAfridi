@@ -47,3 +47,4 @@
 ![Most used languages](https://raw.githubusercontent.com/SayeedAfridi/SayeedAfridi/github-metrics/language.svg)
 ![Notable contributions](https://raw.githubusercontent.com/SayeedAfridi/SayeedAfridi/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/SayeedAfridi/SayeedAfridi/github-metrics/achievements.svg)
+![Leetcode](https://raw.githubusercontent.com/SayeedAfridi/SayeedAfridi/github-metrics/leetcode.svg)
