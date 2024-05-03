@@ -30,7 +30,7 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/SayeedAfridi/SayeedAfridi/devcard/devcard.svg"
+      src="https://raw.githubusercontent.com/SayeedAfridi/SayeedAfridi/devcard/devcard.png"
       alt="Sayeed Afridi's Dev Card"
     />
   </a>
