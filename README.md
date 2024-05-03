@@ -26,7 +26,7 @@
      />
   </a>
 
-  <a href="https://api.daily.dev/get?r=sayeed_afridi" target="_blank">
+  <a href="https://app.daily.dev/sayeed_afridi" target="_blank">
     <img
       width="256"
       align="right"
