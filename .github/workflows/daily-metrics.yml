@@ -83,7 +83,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Achievements Compact
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2 #lowlighter/metrics@latest
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
