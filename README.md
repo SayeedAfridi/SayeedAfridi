@@ -40,7 +40,7 @@
 
 ## I am Sayeed Afridi
 
-- SDE-I at [Syfe](https://syfe.com)
+- SDE-III at [Tecoyo](https://tecoyo.com/)
 - Loves to code and a freshly brewed cup of coffee.
 
 ![Metrics](https://raw.githubusercontent.com/SayeedAfridi/SayeedAfridi/github-metrics/github-metrics.svg)
